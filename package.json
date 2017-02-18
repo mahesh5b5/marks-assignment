@@ -1,0 +1,19 @@
+{
+    "name": "login",
+    "version": "1.0.0",
+    "description": "node app",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "mahesh",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.14.2",
+        "chalk": "^1.1.1",
+        "ejs": "^2.3.4",
+        "express": "^4.13.3",
+        "express-session": "^1.12.1",
+        "mongoose": "^4.3.4"
+    }
+}
