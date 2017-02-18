@@ -9,6 +9,7 @@
     "author": "mahesh",
     "license": "ISC",
     "dependencies": {
+        "bcrypt": "",
         "body-parser": "^1.14.2",
         "chalk": "^1.1.1",
         "ejs": "^2.3.4",
